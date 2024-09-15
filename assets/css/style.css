@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2a0835c8;
+}
+
+
+.test-white{
+    text-align: center;
+}
+
+#stdform i{
+    cursor: pointer;
+    font-size: 30px;
+}
